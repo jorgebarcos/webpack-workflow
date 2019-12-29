@@ -5,5 +5,5 @@
 - Archivos Javascript
 - Fuentes personalizadas
 # Consideraciones
-- la entrada de nuestros archivos está dentro de la carpeta: `src`
-- la carpeta webpack es para configurar webpack
+- La entrada de nuestros archivos está dentro de la carpeta: `src`
+- La carpeta webpack es para configurar webpack
